@@ -1,0 +1,13 @@
+Customer Feedback Report
+
+Customer Feedback Report
+Feedback 1:
+The application is easy to use, and I can find information quickly.
+Feedback 2:
+The interface is confusing, and uploading documents takes too long.
+Feedback 3:
+The chatbot provides useful answers, but sometimes the responses are incomplete.
+Feedback 4:
+I like the document summarization feature. It saves me time when reviewing lengthy reports.
+Feedback 5:
+The application crashes when I upload a large file. Performance needs improvement.

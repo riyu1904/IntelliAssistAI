@@ -1,0 +1,26 @@
+Introduction to NLP and Transformer Models
+Starter sample document for IntelliAssist AI
+Natural Language Processing
+Natural Language Processing (NLP) is a field of artificial intelligence concerned with processing and
+understanding human language. Common tasks include text classification, sentiment analysis, translation,
+summarization, and question answering.
+An NLP system may transform text into numerical representations so algorithms can compare, classify, or
+process it.
+Transformer models
+Transformer architectures use attention mechanisms to model relationships between tokens in a
+sequence. They are widely used in modern language systems.
+Different model designs support different tasks. Encoder-oriented models are often used for understanding
+and classification, decoder-oriented models for generation, and encoder-decoder models for tasks such as
+translation and summarization.
+Embeddings and semantic search
+An embedding maps text to a vector of numbers. Texts with related meanings may have vectors that are
+close under a suitable similarity measure.
+In semantic search, a query is embedded and compared with document-chunk embeddings. The system
+retrieves passages that are semantically relevant, even when they do not share every exact keyword.
+Questions to test in IntelliAssist AI
+What is NLP?
+List three common NLP tasks.
+What is a text embedding?
+How does semantic search differ from exact keyword matching?
+Prepared as an original testing sample based on concepts taught in the free Hugging Face course:
+https://huggingface.co/learn/nlp-course/

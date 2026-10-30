@@ -1,0 +1,23 @@
+AI and Development: Report Reading Sample
+Short, original practice document for IntelliAssist AI
+Purpose
+This short practice note introduces themes a reader may encounter when reviewing public reports about
+artificial intelligence and economic development. It is a test document, not an official World Bank
+publication.
+Potential opportunities
+AI systems may help people analyze information, improve some public and business services, support
+learning, and automate repetitive tasks.
+The benefits depend on the quality of data, suitable infrastructure, staff skills, responsible implementation,
+and whether people can access the resulting services.
+Risks and implementation considerations
+Risks can include inaccurate outputs, privacy concerns, bias, unequal access, security weaknesses, and
+overreliance on automated decisions.
+Organizations should evaluate systems before deployment, protect sensitive information, monitor
+performance, and ensure that people can review consequential decisions.
+Questions to test in IntelliAssist AI
+Name two potential opportunities associated with AI.
+List three risks that organizations should consider.
+Why is human review important for consequential decisions?
+Which implementation factors can affect whether AI benefits are realized?
+Original practice note. For official reports, search the World Bank Documents & Reports repository:
+https://documents.worldbank.org/en/publication/documents-reports/

@@ -1,0 +1,22 @@
+Python Programming Basics
+Starter sample document for IntelliAssist AI
+What is Python?
+Python is a general-purpose programming language known for readable syntax. It is used in scripting,
+automation, web development, data analysis, and artificial intelligence.
+A Python program is commonly saved in a file with the .py extension and executed by a Python interpreter.
+Core concepts
+Variables refer to values. Common built-in types include integers, floating-point numbers, strings,
+booleans, lists, tuples, dictionaries, and sets.
+Conditional statements such as if and else let a program choose which instructions to run. Loops such as
+for and while repeat instructions.
+Functions group reusable instructions. They can accept parameters and return a result.
+Example
+A function can calculate the square of a number: define a function named square that accepts n and
+returns n multiplied by n. Calling square(4) returns 16.
+Questions to test in IntelliAssist AI
+What is Python commonly used for?
+Name four common built-in data types.
+What is the purpose of a function?
+What result does the square function return for an input of 4?
+Prepared as an original testing sample based on general concepts covered in the official Python Tutorial:
+https://docs.python.org/3/tutorial/

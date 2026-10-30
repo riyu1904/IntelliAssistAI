@@ -1,0 +1,37 @@
+Project Name: IntelliAssist AI
+
+Overview:
+IntelliAssist AI is an AI-powered document chatbot that
+helps users search and understand their documents.
+
+Problem Statement:
+Students and businesses often struggle to find relevant
+information across PDFs, notes, and other documents.
+Manually searching large documents can be time-consuming.
+
+Solution:
+IntelliAssist AI allows users to upload documents and ask
+questions about their contents. The system retrieves
+relevant information and generates context-aware answers.
+
+Key Features:
+1. Document upload for PDF, TXT, and DOCX files.
+2. AI chatbot powered by Retrieval-Augmented Generation.
+3. Semantic search using text embeddings.
+4. Automatic document summarization.
+5. Sentiment and intent analysis.
+6. Source citations in generated answers.
+7. Conversation history.
+8. Streamlit web interface.
+
+Technology Stack:
+Frontend: Streamlit
+Backend: Python
+AI Framework: LangChain
+Embeddings: Hugging Face
+Vector Database: FAISS or ChromaDB
+Deployment: Streamlit Cloud or Render
+
+Expected Outcome:
+A user-friendly application that helps users retrieve
+information from their documents quickly and efficiently.
